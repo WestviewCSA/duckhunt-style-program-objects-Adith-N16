@@ -30,7 +30,7 @@ public class Duck {
         tx = AffineTransform.getTranslateInstance(0, 0); // Start with image at (0,0)
         
         // Default values
-        scaleX = 1.0;
+        scaleX = 1000.0;
         scaleY = 1.0;
         x = 0;
         y = 0;
